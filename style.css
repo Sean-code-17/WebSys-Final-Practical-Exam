@@ -1,0 +1,43 @@
+body{
+	background-color: white;
+	font-family: Arial, sans-serif;
+}
+
+.login{
+background-color: #bebebe;
+}
+
+.container{
+	width: 400px;
+	margin: 200px auto;
+	padding: 20px;
+	backround-color: #bebebe;
+	border-radius: 15px;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+input{
+	width: 90%;
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+button{
+	width: 95%;
+	padding: 10px;
+	background-color: purple;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: green;
+}
+	
+	
